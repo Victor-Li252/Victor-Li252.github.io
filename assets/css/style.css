@@ -1,0 +1,39 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color:lightgreen;
+}
+
+.title {
+  font-size: 2em;
+}
+
+.view {
+  min-height: 768px;
+  min-width: 1024px;
+  height:768px;
+}
+.links {
+
+}
+.toolbox {
+  margin:auto;
+}
+#portrait img{
+  width: 30%;
+  display: block;
+  margin: auto;
+  border-radius:80px;
+}
+#welcome-content{
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+#social-links img{
+  display: inline-block;
+  margin: 20px;
+}
+#social-links {
+  text-align:center;
+}
