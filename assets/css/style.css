@@ -55,10 +55,6 @@ body {
   padding:16px
 }
 
-#welcome-title {
-  display: none;
-}
-
 .view {
   min-height: 400px;
   margin-top:0px;
